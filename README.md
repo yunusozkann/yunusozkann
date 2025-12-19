@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**yunusozkann/yunusozkann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 I am a fourth-year student at Mehmet Akif Ersoy University, currently pursuing a degree in Information Systems and Technologies. With a passion for both front-end and back-end development, I have hands-on experience working with HTML5, CSS3, JavaScript, React.js, and Node.js. My journey in software development is complemented by my skills in MongoDB, SQL, and Linux systems, as well as a strong foundation in network and cybersecurity, which includes CCNA-level knowledge and CyberOps Associate training.<br><br>In addition to my technical skills, I bring strong problem-solving abilities, teamwork, and a quick learning ability to adapt to new challenges. I have developed various projects, including a disaster management system, a random secret sharing app, and a recommendation platform for users seeking activities to do when bored. These projects have allowed me to enhance my expertise in both front-end and back-end technologies, as well as work on real-world applications in diverse fields.<br><br>I am also an active member of Genç Akademi, where I serve as a Technical Support Representative, managing communication and troubleshooting technical issues during events. With my combined knowledge and practical experience, I am excited to contribute to the tech industry, constantly seeking new opportunities to grow and innovate.
 
 
@@ -32,11 +25,3 @@ I am a fourth-year student at Mehmet Akif Ersoy University, currently pursuing a
 [![](https://visitcount.itsvg.in/api?id=yunusozkann&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
